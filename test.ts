@@ -8,3 +8,8 @@ nums.forEach((element: number , index: number , refArray: number []): void => {
 
 
 let user={}
+
+nums.forEach((element: number , index: number , refArray: number []): void => {
+    console.log("element" , element);
+    console.log("index" , index);
+    console.log("refArray" , refArray);
